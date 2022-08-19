@@ -78,7 +78,7 @@ namespace ParksDirectory.Solution.Migrations
                         new
                         {
                             ParkId = 5,
-                            Description = "Mt. Hood National Forest offers a huge variety of world-class recreational activities with opportunities for everyone. Mt Hood National Forest encompasses eight unique Wilderness areas as well as multiple barrier free accessible sites to explore. Whether it's skiing, hiking, boating, rafting, climbing, backpacking, horseback riding, or fishing that you are hoping to experience, you're sure to find great opportunities in your National Forest. Camping in one of our developed campgrounds is a wonderful way to enjoy the forest. For reservations visit recreation.gov. Visit Portland General Electric for reservations at Lake Harriet or Timothy Lake.",
+                            Description = "Mt. Hood National Forest offers a huge variety of world-class recreational activities with opportunities for everyone. Mt Hood National Forest encompasses eight unique Wilderness areas as well as multiple barrier free accessible sites to explore. Whether it's skiing, hiking, boating, rafting, climbing, backpacking, horseback riding, or fishing that you are hoping to experience, you're sure to find great opportunities in your National Forest. Camping in one of our developed campgrounds is a wonderful way to enjoy the forest.",
                             Location = "Government Camp, OR",
                             Name = "Mt. Hood Natl. Forest",
                             PhotoUrl = "https://media.istockphoto.com/photos/mount-hood-oregon-picture-id1268487061?k=20&m=1268487061&s=612x612&w=0&h=RJ1ZSwIVtEkQ8GRnOg7jD0iFH9msAjeIW9k7UmnjP1U="
