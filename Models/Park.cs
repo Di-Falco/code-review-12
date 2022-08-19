@@ -6,11 +6,13 @@ namespace ParksDirectory.Models
   {
     public int ParkId { get; set; }
     [Required]
-    [StringLength(20)]
+    [StringLength(25)]
     public string Name { get; set; }
     [Required]
     public string Location { get; set; }
     [Required]
     public string Description { get; set; }
+
+    public string PhotoUrl { get; set; }
   }
 }
